@@ -6,7 +6,7 @@
 <body>
 
 <form action="proses.php" method="get">
-    Namaa: <input type="text" name="nama"><br>
+    Nama: <input type="text" name="nama"><br>
     Email: <input type="text" name="email"><br>
 <input type="submit" value="Kirim">
 </form>
