@@ -15,31 +15,7 @@
 		print_r($_POST);
 		print_r($_REQUEST);
 	}
-
-// $_GET
-Array
-(
-    [action] => edit
-)
-
-// $_POST
-Array
-(
-    [nama] => Ahmadi
-    [email] =>ahmadimuslim@gmail.com
-    [action] => insert
-    [submit] => submit
-)
-
-// $_REQUEST
-Array
-(
-    [action] => insert
-    [nama] => Ahmadi
-    [email] => prawoto.hadi@gmail.com
-    [submit] => submit
-)
-
-?>
+	?>
 </body>
 </html>
+
