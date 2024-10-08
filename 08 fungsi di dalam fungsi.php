@@ -7,12 +7,12 @@ function hitungUmur($thn_lahir, $thn_sekarang){
 
 function perkenalan($nama, $salam="Assalamualaikum"){
   echo $salam.", ";
-  echo "Perkenalkan, nama kita ".$nama."<br/>";
+  echo "Perkenalkan, nama saya ".$nama."<br/>";
   // memanggil fungsi lain
-  echo "Kita berusia ". hitungUmur(1986, 2023) ." tahun<br/>";
+  echo "saya berusia ". hitungUmur(2008, 2024) ." tahun<br/>";
   echo "Senang berkenalan dengan anda<br/>";
 }
 // memanggil fungsi perkenalan
-perkenalan("Ahmadi");
+perkenalan("Nayla");
 
 ?>
